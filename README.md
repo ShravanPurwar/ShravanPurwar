@@ -1,7 +1,6 @@
 <br>
  <div align=”center”>
- 
-![Rohit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rohitsinghkcodes&theme=xcode)
+
 
 <br>
 
