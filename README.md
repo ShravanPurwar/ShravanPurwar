@@ -4,7 +4,7 @@
 
 <br>
 
-###  &nbsp;&nbsp;&nbsp;&nbsp; C++ || Dart || Python || Flutter App Development || Android App Development || Competitive Coding
+###  &nbsp;&nbsp;&nbsp;&nbsp; C++ || Python || Web Development || Data Analysis || Azure Cloud || SQL 
  
 <br>
 
