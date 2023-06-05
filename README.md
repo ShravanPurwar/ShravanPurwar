@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shravan Purwar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-  
+<h4 align="center">
+<br />
+<img  src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" 
+width="30px">&nbsp; Shravan Purwar </h4>
+<img align="right" src="https://github.com/pemudakoding/pemudakoding/raw/master/Images/coding_2.gif" width = "30%"/>
+
+<br /> 
+<br />  
 
 
 - 🔭 I’m currently working on **Cloud Technology & Data Analysis**
@@ -9,7 +16,16 @@
 
 - 📫 How to reach me **sravanpurwar@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1Nm1rg4n_SWZQd7EDrmXulPwAXtvdTpU4/view?usp=drive_link](https://drive.google.com/file/d/1Nm1rg4n_SWZQd7EDrmXulPwAXtvdTpU4/view?usp=drive_link)
+- 📄 Resume [Resume_Shravan](https://drive.google.com/file/d/1Nm1rg4n_SWZQd7EDrmXulPwAXtvdTpU4/view?usp=drive_link)
+<br /> <br />
+<br /> <br />
+
+
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
+
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
