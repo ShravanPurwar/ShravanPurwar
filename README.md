@@ -1,33 +1,39 @@
-<h1 align="center">Hi 👋, I'm Shravan Purwar</h1>
-
-###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; || C || C++ || Python || Web App Development || Data Analysis || Front-end Developer || 
+<br>
+ <div align=”center”>
+ 
+![Rohit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rohitsinghkcodes&theme=xcode)
 
 <br>
 
+###  &nbsp;&nbsp;&nbsp;&nbsp; C++ || Dart || Python || Flutter App Development || Android App Development || Competitive Coding
+ 
+<br>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShravanPurwar" alt="ShravanPurwar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsinghkcodes&theme=monokai&row=1&column=6" alt="rohitsinghkcodes" /></a> </p>
 <br>
 <br><br>
 
+<img align="left" height="300"  alt="GIF" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" />
 
-<img align="right" height="400" width="400" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/source.gif" />
+<br>
 
-## About Me:
 
-- 🔭 I’m currently working on **Data Analysis**
+### SOME SNEAK PEEKS <img src="https://media.giphy.com/media/EHBHm9Pd78jwA/source.gif" width="40" height="25" />
+- :memo: My 2 favourite languages are **C++** and **Python**
 
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on some **cross platform applications**
 
-- 📫 You can reach me at **sravanpurwar@gmail.com**
+- 🌱 I’m currently learning **Flutter Development** and **Machine Learning**
+<!-- 
+- 👯 I’m looking to **collaborate** on some **creative** app. **ideas**, for Android and iOS. -->
 
-- ⚡  **I love Gaming**
+- ⚡ I love to **draw**, watch **anime** and play **basketball**.
 <!--
 <img align="left" src="https://spidyhackx.github.io/cv/images/programmer.gif" width="550" height="400"/>
 -->  
 <br><br><br>
 
-###         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GITHB STATISTICS<img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GITHB STATISTICS<img src="https://thumbs.gfycat.com/SpeedyPaltryAfricanharrierhawk-max-1mb.gif" width="25" height="20" />
 
 <br>
 <!--![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical) -->
@@ -36,7 +42,10 @@
 
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=rohitsinghkcodes&show_icons=true&theme=radical" alt="rohitsinghkcodes" /></p>
 
-<br><br>
+<br>
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  LANGUAGES AND TOOLS<img src="https://thumbs.gfycat.com/FarSecondhandAfricanparadiseflycatcher-small.gif" width="30" height="37" />
+<br>
 
  <img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
  &nbsp;&nbsp;
@@ -91,30 +100,24 @@
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
  
 
-### GitHub Stats:
-
-<p><img align="left"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanPurwar&layout=compact&theme=dracula" alt="ShravanPurwar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShravanPurwar&show_icons=true&theme=dracula" alt="ShravanPurwar" /></p>
+ <br><br>
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    GET IN TOUCH <img src="https://media.giphy.com/media/Zcc3ZeeZ5ztdw1oNSB/giphy.gif" width="35" height="35" />
 
 <br>
-
-
-### Get in Touch 
-
-<a href="https://twitter.com/Shrav_1708" >
-     <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" width="50" height="52" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="https://twitter.com/rohit_ka_tweet" >
+     <img src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width="55" height="57" />
   </a>
-
-  <a href="https://www.instagram.com/shrav_1708/" >
-     <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-48x48.png" width="50" height="52" />
+  <a href="https://www.instagram.com/rohit_ka_insta/">
+    <img src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif" width="55" height="57"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/shravan-purwar-15a5801a2/">
-    <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" width="50" height="52"/>
+   <a href="https://www.linkedin.com/in/rohit-kumar-singh-702a451a4/">
+    <img src="https://github.com/rohitsinghkcodes/rohitsinghkcodes/blob/master/Readme_gifs/linkedinGif.gif" width="60" height="60" />
   </a>
-  <a href="https://www.facebook.com/shravan.purwar">
-    <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" width="50" height="52"/>
+ <a href="https://medium.com/@rohit_kumar_singh">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="60" />
   </a>
+  
 
-<br><br>
+ <br><br><br> 
+ 
+###### Sorry for typos (if any)
