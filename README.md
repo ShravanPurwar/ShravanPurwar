@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shravan Purwar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 - 🔭 I’m currently working on **Cloud Technology & Data Analysis**
 
@@ -8,7 +7,7 @@
 
 - 📫 How to reach me **sravanpurwar@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1Nm1rg4n_SWZQd7EDrmXulPwAXtvdTpU4/view?usp=drive_link](https://drive.google.com/file/d/1Nm1rg4n_SWZQd7EDrmXulPwAXtvdTpU4/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Nm1rg4n_SWZQd7EDrmXulPwAXtvdTpU4/view?usp=drive_link](https://drive.google.com/file/d/1Nm1rg4n_SWZQd7EDrmXulPwAXtvdTpU4/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
