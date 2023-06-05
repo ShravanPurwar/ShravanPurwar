@@ -27,55 +27,58 @@
 
 ### Languages and Tools:
 
-[<code>
-<img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-</code>](https://www.w3schools.com/cpp/)/n
-[<code>
+ <img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+ &nbsp;&nbsp;
 <img alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-</code>](https://www.tutorialspoint.com/cprogramming/index.htm)
-[<code>
+&nbsp;&nbsp;
+<img alt="Dart" width="26px" src="https://img.icons8.com/color/48/000000/dart.png" />
+&nbsp;&nbsp;
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
+&nbsp;&nbsp;
+<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+ &nbsp;&nbsp;
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
+ &nbsp;&nbsp;
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
+ &nbsp;&nbsp;
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
+ &nbsp;&nbsp;
+<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+ &nbsp;&nbsp;
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
+ &nbsp;&nbsp;
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-
-[<code>
+ &nbsp;&nbsp;
+<img alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" />
+ &nbsp;&nbsp;
+<img alt="Adobe Illustrtor" width="26px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
+ &nbsp;&nbsp;
+<img alt="Filmora" width="26px" src="https://img.icons8.com/dusk/64/000000/filmora9.png" />
+ &nbsp;&nbsp;
+<img alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
+ &nbsp;&nbsp;
 <img alt="AnaConda" width="26px" src="https://www.clipartkey.com/mpngs/m/227-2271689_transparent-anaconda-logo-png.png">
-</code>](https://www.anaconda.com/)
-[<code>
+ &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Jupyter Notebook" width="26px" src="https://assets-global.website-files.com/5bc7838f11643023e1993a6c/5c802890dd4478f300774b9b_883px-Jupyter_logo.svg.png">
-</code>](https://jupyter.org/)
-[<code>
+ &nbsp;&nbsp;
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
+ &nbsp;&nbsp;
+<img alt="github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+ &nbsp;&nbsp;
 <img alt="Stack Overflow" width="26px" src="https://img.icons8.com/color/48/000000/stackoverflow.png">
-</code>](https://stackoverflow.com/)
-[<code>
+ &nbsp;&nbsp;
 <img alt="GeeksForGeekS" width="26px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png">
-</code>](https://practice.geeksforgeeks.org/home/)
-[<code>
+ &nbsp;&nbsp;
 <img alt="Mozilla Firefox" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_firefox-256.png">
-</code>](https://www.mozilla.org/en-US/firefox/new/)
-[<code>
+ &nbsp;&nbsp;
+<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+  &nbsp;&nbsp;
+<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+ &nbsp;&nbsp;
+<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+ &nbsp;&nbsp;
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
+ 
 <br>
 
 <br><br>
