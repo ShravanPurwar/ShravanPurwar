@@ -80,9 +80,6 @@
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 
 
-<br><br>
-
-
 ### GitHub Stats:
 
 <p><img align="left"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanPurwar&layout=compact&theme=dracula" alt="ShravanPurwar" /></p>
