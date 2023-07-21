@@ -10,7 +10,7 @@ width="30px">&nbsp; Shravan Purwar </h4>
 <br />  
 
 
-- 🔭 I’m currently working on **Cloud Technology & Data Analysis**
+- 🔭 I’m currently working on **Data Analysis & Cloud Technology**
 
 - 🌱 I’m currently learning **DevOps**
 
