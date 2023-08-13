@@ -16,7 +16,7 @@ width="30px">&nbsp; Shravan Purwar </h4>
 
 - 📫 How to reach me **sravanpurwar@gmail.com**
 
-- 📄 Resume [Shravan Resume](https://drive.google.com/file/d/1o_jAgFJFaLsm5LphcJ-RvJEm6Xgkw9AK/view?usp=sharing)
+- 📄 Resume [Shravan Resume](https://drive.google.com/file/d/1LapPz6nhAJnYXWZ3PjB2hqFdYmlHtQzh/view?usp=sharing)
 <br /> <br />
 <br /> <br />
 
