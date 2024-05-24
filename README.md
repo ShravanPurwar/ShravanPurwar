@@ -10,9 +10,9 @@ width="30px">&nbsp; Shravan Purwar </h4>
 <br />  
 
 
-- 🔭 I’m currently working on **Data Analysis & Cloud Technology**
+- 🔭 I’m currently working in Cisco **Networking & Cloud Technology**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently practising **Routing Protocols**
 
 - 📫 How to reach me **sravanpurwar@gmail.com**
 
